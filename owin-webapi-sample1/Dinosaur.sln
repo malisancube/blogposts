@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dinosaur.Server", ".\Dinosaur.Server\Dinosaur.Server.csproj", "{73D91505-25EF-4C7A-BA76-E6984975D8B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dinosaur.Model", ".\Dinosaur.Model\Dinosaur.Model.csproj", "{AEF494C2-A24A-40AF-A784-09182E987C31}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Dinosaur.Client", ".\Dinosaur.Client\Dinosaur.Client.vbproj", "{37A350AC-AF48-4CF8-821D-8A3AFC7F5373}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73D91505-25EF-4C7A-BA76-E6984975D8B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73D91505-25EF-4C7A-BA76-E6984975D8B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73D91505-25EF-4C7A-BA76-E6984975D8B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73D91505-25EF-4C7A-BA76-E6984975D8B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEF494C2-A24A-40AF-A784-09182E987C31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF494C2-A24A-40AF-A784-09182E987C31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF494C2-A24A-40AF-A784-09182E987C31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEF494C2-A24A-40AF-A784-09182E987C31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37A350AC-AF48-4CF8-821D-8A3AFC7F5373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37A350AC-AF48-4CF8-821D-8A3AFC7F5373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37A350AC-AF48-4CF8-821D-8A3AFC7F5373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37A350AC-AF48-4CF8-821D-8A3AFC7F5373}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
